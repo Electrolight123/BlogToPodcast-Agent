@@ -1,0 +1,5 @@
+firecrawl-py # Used for web scraper
+groq # Used for natural language processing
+elevenlabs # Used for audio transcription
+agno # agent Framework Used for text-to-speech
+streamlit # Used for web app
